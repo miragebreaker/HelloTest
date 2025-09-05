@@ -4,5 +4,14 @@
   "artist": "Togawa Ritsu",
   "author": "Dozaemon Misoneta",
   "cover": "https://meo.comick.pictures/mndzpL-m.jpg",
-  "chapters": {}
+  "chapters": {
+    "1": {
+      "title": "1",
+      "volume": "",
+      "last_updated": "1757037659",
+      "groups": {
+        "Philia Scans": "/proxy/api/imgur/chapter/sentai-daishikkaku-chapter-177-yAR3JTY"
+      }
+    }
+  }
 }
